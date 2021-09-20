@@ -10,15 +10,14 @@ public class BootClass {
 	
 	public static void show() {
 		int[] arr= {1,2,3};
-<<<<<<< HEAD
+
 		int sum=0;
 		for(int n:arr) {
 			sum+=n;
-=======
+
 		
 		for(int n:arr) {
 			
->>>>>>> branch 'master' of https://github.com/Psurya07/sampleapp.git
 			System.out.println(n);
 		}
 
