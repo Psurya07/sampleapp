@@ -9,7 +9,13 @@ public class BootClass {
 	}
 	
 	public static void show() {
+		int[] arr= {1,2,3};
 		
+		for(int n:arr) {
+			
+			System.out.println(n);
+		}
+
 		System.out.println("Show method here!");
 	}
 }
